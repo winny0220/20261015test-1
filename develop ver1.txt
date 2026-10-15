@@ -4,8 +4,4 @@ test1
 
 test123
 
-<<<<<<< HEAD
-=======
 move4
->>>>>>> d478f95262ea89fc72ae20c4125e8283259fb1b2
-impact
